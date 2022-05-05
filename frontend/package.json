@@ -45,6 +45,6 @@
   },
   "devDependencies": {
     "progress-bar-webpack-plugin": "^2.1.0",
-    "webpack-bundle-analyzer": "^3.8.0"
+    "webpack-bundle-analyzer": "^4.5.0"
   }
 }
